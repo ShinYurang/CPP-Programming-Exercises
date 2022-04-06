@@ -4,7 +4,7 @@ static PlayInfo MVP[NUM_MVP];
 static int nMVP = NUM_MVP;	
 
 static void initRanking() {
-	PlayInfo noname = { "C++¡¡æ∆ø‰", 1000, 1000.0 };
+	PlayInfo noname = { "C++√Å√Å¬æ√Ü¬ø√§", 1000, 1000.0 };
 	for (int i = 0; i<nMVP; i++)
 		MVP[i] = noname;
 }
