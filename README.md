@@ -7,5 +7,5 @@
 | 5주차 | 248페이지 실습문제 4번 구현 | Week5_Homework2 |  
 | 6주차 | 6.8 응용: Hangman 게임 | Week6_Homework1 |  
 | 6주차 | 302페이지 실습문제 3번 구현 | Week6_Homework2 |  
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+| 7주차 | 7.8 응용: MonsterWorld 게임 | Week7_Homework1 |  
+| 7주차 | 348페이지 실습문제 3번 구현 | Week7_Homework2 |  
