@@ -10,4 +10,4 @@
 | 7주차 | 7.8 응용: MonsterWorld 게임 | Week7_Homework1 |  
 | 7주차 | 348페이지 실습문제 3번 구현 | Week7_Homework2 |  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinYurang%2FCPP-Programming-Exercises.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
